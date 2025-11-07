@@ -133,3 +133,12 @@ scrape_configs:
         replacement: 3.109.47.94:9115 # The blackbox exporter's real hostname:port.
 ```
 then restart the alert-manager & prometheus
+
+This is prometheus.yml file
+<img width="1137" height="617" alt="Screenshot 2025-11-02 024714" src="https://github.com/user-attachments/assets/3982f0da-8f14-4579-87b3-8cf2b37d0d5b" />
+
+
+<img width="1917" height="871" alt="Screenshot 2025-11-04 002741" src="https://github.com/user-attachments/assets/27ee75ce-76a1-4441-a316-91329fef22cc" />
+<img width="1919" height="865" alt="Screenshot 2025-11-04 002813" src="https://github.com/user-attachments/assets/1579dfe4-3ad6-4639-ac61-1c7fa9f4d0a9" />
+<img width="1919" height="870" alt="Screenshot 2025-11-04 002835" src="https://github.com/user-attachments/assets/52fd4852-5763-4661-8624-3946ab728700" />
+
